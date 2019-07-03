@@ -1,2 +1,2 @@
 # generic-ds
-Generic implementation of Data structures in C++
+Generic implementation of Data structures using C++ generics
