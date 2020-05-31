@@ -2,8 +2,6 @@
 #include <ostream>
 #include <vector>
 
-int get_nearest_two_power(int);
-
 namespace adt {
 	class segment_tree {
 	private:
